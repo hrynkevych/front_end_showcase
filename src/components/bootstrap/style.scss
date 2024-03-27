@@ -1,0 +1,22 @@
+@import "~bootstrap/scss/bootstrap";
+
+#carouselExample {
+    background-color: #f8f9fa;
+    max-width: 600px;
+    margin: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: aqua;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    color: #ffffff;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    max-height: 300px;
+}

@@ -4,7 +4,7 @@ UI libs
 
 1.1. Top
 
-- Bootstrap
+- Bootstrap (React-Bootstrap)
 - Tailwind CSS
 - Material UI
 - styled-components
