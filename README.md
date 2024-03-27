@@ -1,34 +1,43 @@
 UI libs
 
-- CSS in JS
-- CSS modules
-- Styled components
-- Vanilla Extract
-- Panda CSS
+1. Styling
 
-- Material UI
-- daisyUI
-- Chakra UI
-- Mantine
-
-- Tailwind
-- RadixUI
-- ShadcnUI
-
-Styling
+1.1. Top
 
 - Bootstrap
-- MUI
-- And Design
 - Tailwind CSS
+- Material UI
+- styled-components
+- Foundation
+- Bulma
 - Chakra UI
+- Emotion
+- Pure CSS
 
-Animation
+1.2. Other
+
+- Vanilla Extract
+- Panda CSS
+- daisyUI
+- Mantine
+- RadixUI
+- ShadcnUI
+- Ant Design
+- Materialize CSS
+- Skeleton
+
+2. Animations
 
 - GreenSock Animation
 - React Spring
 - Framer Motion
 - Anime.js
 - Lottie
-
-- Materialize CSS
+- Three.js
+- Velocity.js
+- Popmotion.io
+- KUTE.js
+- Mo.js
+- Babylon.js
+- Vivus
+- Animate
