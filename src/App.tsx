@@ -2,6 +2,7 @@ import "./App.scss";
 import { BootstrapComponent } from "./components/bootstrap/BootstrapComponent";
 import { ReactBootstrapComponent } from "./components/react-bootstrap/ReactBootstrapComponent";
 import { TailwindComponent } from "./components/tailwind/TailwindComponent";
+import { MaterialUI } from "./components/material-ui/MaterialUI";
 
 function App() {
   return (
@@ -21,9 +22,8 @@ function App() {
           <TailwindComponent />
         </div>
         <div className="lib">
-        <h3>Material UI</h3>
-        
-
+          <h3>Material UI</h3>
+          <MaterialUI />
         </div>
         <div className="lib"></div>
         <div className="lib"></div>
